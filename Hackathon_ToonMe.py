@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 27 17:03:53 2021
 
-@author: Aaron
+@author: Aaron and Ian
 """
 
 import cv2 as cv
